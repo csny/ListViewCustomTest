@@ -4,6 +4,8 @@ ListviewにPulltoRefleshやBackButtonを入れるするテストプログラム�
 
 ソースの参考なので、単体では動きません。
 
+作成・編集したのは、src,res/layoutフォルダの２つと、res/values/color.xml,res/values-ja/strings.xmlファイルの２つだけです。
+
 2.動作条件
 
 javaで書かれています。
