@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">appsdk_ListviewTest</string>
+    <string name="hello_world">こんにちは世界</string>
+    <string name="action_settings">設定</string>
+    <string name="title_activity_cours_detail">CoursDetail</string>
+    <string name="title_activity_course_detail">CourseDetail</string>
+    <string name="title_activity_settings_page">SettingsPage</string>
+
+</resources>
