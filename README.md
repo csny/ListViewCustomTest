@@ -1,12 +1,12 @@
 1.プログラムの目的
 
-Listviewをカスタマイズするテストプログラムです。
+ListviewにPulltoRefleshやBackButtonを入れるするテストプログラムです。
 
 ソースの参考なので、単体では動きません。
 
 2.動作条件
 
-javaで書かれています。Volley外部プロジェクトのjarファイルをコピペしてます。
+javaで書かれています。
 
 Eclipse Luna Service Release 2 (4.4.2)
 
