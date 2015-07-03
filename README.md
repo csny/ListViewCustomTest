@@ -1,6 +1,6 @@
 1.プログラムの目的
 
-ListviewにPulltoRefleshやBackButtonを入れるするテストプログラムです。
+ListviewにPulltoRefleshやBackButtonを入れてみるテストプログラムです。
 
 ソースの参考なので、単体では動きません。
 
